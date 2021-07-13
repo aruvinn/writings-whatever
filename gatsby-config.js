@@ -3,6 +3,8 @@ module.exports = {
     title: "Writings, Whatever",
   },
   plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-mdx",
     {
